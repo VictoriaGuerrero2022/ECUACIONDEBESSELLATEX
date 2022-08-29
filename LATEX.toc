@@ -1,9 +1,0 @@
-\babel@toc {spanish}{}\relax 
-\contentsline {section}{\numberline {1}INGENIER\'IA CIVIL}{3}{}%
-\contentsline {section}{\numberline {2}ECUACI\'ON DIFERENCIAL}{3}{}%
-\contentsline {section}{\numberline {3}SOLUCI\'ON DE ECUACIONES DIFERENCIALES LINEALES MEDIANTE SERIES}{4}{}%
-\contentsline {subsection}{\numberline {3.1}Ecuaci\'on de Bessel}{4}{}%
-\contentsline {section}{\numberline {4}EJERCICIO PROGRAMADO EN MATLAB}{5}{}%
-\contentsline {subsection}{\numberline {4.1}Función de Bessel}{5}{}%
-\contentsline {subsection}{\numberline {4.2}Funciones de Bessel de primera especie}{6}{}%
-\contentsline {subsection}{\numberline {4.3}Aproximaciones}{7}{}%
